@@ -22,7 +22,13 @@ Initiatives will be added here as their repositories are created.
 
 ## Contributing
 
+## Contributing
+
 The WPCC welcomes and encourages collaboration from individuals and organizations aligned with our mission and values. Contribution to the public repositories of The WP Community Collective are open to the public. All engagement with and contributions to these respositories are subject to the policies outlined in [The WPCC Code of Conduct](https://www.thewpcommunitycollective.com/about/code-of-conduct/).
 
-For questions or inquiries, contact [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com).
+To get involved or learn more:
 
+- [Visit our website] (https://www.thewpcommunitycollective.com/)
+- [Join The WPCC] (https://www.thewpcommunitycollective.com/join/)
+
+For questions or inquiries, contact [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com).
